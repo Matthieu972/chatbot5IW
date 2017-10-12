@@ -1,4 +1,0 @@
-Afficher un message lorsqu'on envoie un message au bot :
-	-"... typing"
-	-envoie d'un message après 10 sec
-	-message de bienvenue pour le user
